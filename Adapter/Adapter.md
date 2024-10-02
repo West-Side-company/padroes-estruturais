@@ -1,0 +1,3 @@
+O Adapter Pattern é um padrão estrutural que permite que interfaces incompatíveis trabalhem juntas. Ele atua como um adaptador entre duas classes, convertendo a interface de uma classe em outra que o cliente espera. Imagine que temos um sistema que espera usar um tipo específico de interface, mas queremos integrar uma classe existente que não segue essa interface.
+
+Esse padrão é útil quando você deseja usar uma classe existente, mas sua interface não é compatível com o sistema que está integrando. O Adapter resolve esse problema, convertendo a interface da classe existente na interface esperada pelo sistema.
