@@ -13,14 +13,3 @@ Se a classe `Cliente` interage diretamente com todas essas classes, ela se torna
 ## Solução
 
 Utilizando o padrão **Facade**, podemos criar uma interface simplificada que encapsula a complexidade do sistema. A implementação é feita da seguinte maneira:
-
-### Estrutura do Projeto
-
-Organizamos o código em diferentes arquivos Kotlin:
-
-/Facade
-  ├── Filme.kt
-  ├── Reserva.kt
-  ├── Pagamento.kt
-  ├── CinemaFacade.kt
-  └── Main.kt
