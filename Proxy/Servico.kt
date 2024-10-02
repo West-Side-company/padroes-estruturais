@@ -1,0 +1,3 @@
+interface Servico {
+    fun processar()
+}

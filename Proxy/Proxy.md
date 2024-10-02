@@ -1,0 +1,3 @@
+O Proxy Pattern é um padrão estrutural que fornece um substituto ou ponto intermediário para acessar um objeto, controlando o acesso a ele. Em Kotlin, podemos implementar um proxy para controlar o acesso a um objeto real, fornecendo uma interface comum.
+
+Este é um exemplo básico de um Proxy em Kotlin, onde o proxy controla o acesso a um objeto de uma classe pesada (custosa para instanciar ou carregar)
